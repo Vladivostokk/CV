@@ -1,0 +1,36 @@
+html {
+    scroll-behavior: smooth;
+}
+.container{
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #f7f7f7b6;
+    border-radius: 3%;
+    padding-bottom: 5px;
+}
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #000000;
+    background-image: url(https://sun9-4.userapi.com/c857320/v857320284/138d46/0kayBq0AQ3A.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    font-size: 17px;
+}
+h2 {
+    font-family: 'Bebas Neue', sans-serif;
+    color: #09085e;
+    font-size: 2rem;  
+    margin-left: 10px; 
+}
+.me, .donnu,.job{
+    float: left;
+    padding-right: 15px;
+}
+.ss,.hs{
+    float: left;
+    padding-right: 22px;
+}
+p {
+    margin-left: 15px;
+}
